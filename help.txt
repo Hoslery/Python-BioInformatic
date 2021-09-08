@@ -1,0 +1,6 @@
+>Seq_1
+ATGC
+>Seq_2
+GCTA
+>Seq_3
+AAAAAA
